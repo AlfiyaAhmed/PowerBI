@@ -47,9 +47,6 @@ An interactive HR Analytics Dashboard built with Microsoft Power BI to analyze e
 - Lower salary ranges (Upto 5k) have highest attrition
 - Laboratory Technicians have the highest attrition count (62)
 
-## 👤 Author
-Alfiya Ahmed
-
-## 📝 License
-This project is open source and available under the [MIT License](LICENSE).
+**👩💻 Created by:** Alfiya Ahmed  
+**📅 Date:** Febrary 2026 
 
