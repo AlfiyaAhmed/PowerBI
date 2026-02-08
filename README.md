@@ -124,7 +124,7 @@ This dashboard helps organizations:
 HR-Analytics-Dashboard/
 │
 ├── DASHBOARD.png
-├── HR_Analytics.pbix
+├── HR_ANALYSTICS.pbix
 └── README.md
 
 ---
@@ -162,10 +162,7 @@ Overall, it enables HR professionals to better understand workforce dynamics and
 
 ---
 
-## 👨‍💻 Author
-Your Name
+**👩💻 Created by:** Alfiya Ahmed  
+**📅 Date:** February 2026  
 
----
 
-## 📜 License
-For educational and portfolio use.
